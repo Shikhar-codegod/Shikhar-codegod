@@ -1,4 +1,5 @@
 ## Hi there 👋, I am Shikhar Goyal.
+<h3 align="center">A curious developer from India.</h3>
 
 <!--
 **Shikhar-codegod/Shikhar-codegod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +17,9 @@ Here are some ideas to get you started:
 -->
 ![Snake animation](https://github.com/Shikhar-codegod/Shikhar-codegod/blob/output/github-contribution-grid-snake.svg)
 
-<h1 align="center">Hi 👋, I'm Shikhar</h1>
-<h3 align="center">A curious developer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shikhar-codegod" alt="shikhar-codegod" /></a> </p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shikhar-codegod" alt="shikhar-codegod" /></a> </p> -->
 
 - 📫 How to reach me **shikhargoyal2007@gmail.com**
 
